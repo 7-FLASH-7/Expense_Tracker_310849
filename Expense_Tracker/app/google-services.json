@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:177019292309:android:5d5ff230be87681cbba99c",
+        "mobilesdk_app_id": "1:177019 292309:android:5d5ff230be87681cbba99c",
         "android_client_info": {
           "package_name": "com.example.expensetracker"
         }
