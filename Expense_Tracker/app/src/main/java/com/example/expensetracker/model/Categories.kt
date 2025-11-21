@@ -21,7 +21,7 @@ enum class Category(val displayName: String, val color: String) : Parcelable {
     OTHER("Other","#000000");                  // Black
 
     companion object {
-        // here it reads what you type and automatically guesses which category it belongs to
+        // here
         // For example: if you type "pizza" it knows that's FOOD
         fun autoDetect(description: String): Category {
 
