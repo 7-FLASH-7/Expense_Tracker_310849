@@ -101,3 +101,4 @@ sealed class AuthState { // this sealed class is for when only 5 states can repr
     data class Error(val message: String) : AuthState() // here where something went wrong
     object SignedOut : AuthState() // this is just that user just logged out
 }
+

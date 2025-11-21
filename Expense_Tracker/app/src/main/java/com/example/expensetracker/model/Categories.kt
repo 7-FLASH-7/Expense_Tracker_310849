@@ -19,9 +19,7 @@ enum class Category(val displayName: String, val color: String) :
         EDUCATION("Education", "#3F51B5"), // indigo
         HEALTHCARE("Healthcare", "#F44336"), // Red
         TRAVEL("Travel", "#00BCD4"), // cyan
-        OTHER("Other","#000000") // black
+        
 
 
 }
-
-
